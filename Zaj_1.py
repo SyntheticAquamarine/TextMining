@@ -26,3 +26,4 @@ lobortis, :> tortor nisl facilisis leo, ;) at tristique #frasistas :) augue risu
 
 res_ex3 = re.findall('[:;]+-?[>)(<]',ex3)
 
+
